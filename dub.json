@@ -1,0 +1,12 @@
+{
+	"name"        : "dcal",
+	"authors"     : [
+		"quickfur"
+	],
+	"description" : "Annual calendar",
+	"copyright"   : "Copyright © 2016, acorbi",
+	"license"     : "gpl3",
+    "targetType"  : "executable",
+    "targetPath"  : "bin",
+    "targetName"  : "dcal"
+}
